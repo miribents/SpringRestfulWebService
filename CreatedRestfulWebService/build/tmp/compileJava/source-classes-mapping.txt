@@ -1,0 +1,12 @@
+com/example/restservice/model/User.java
+ com.example.restservice.model.User
+com/example/restservice/exceptions/NotFoundException.java
+ com.example.restservice.exceptions.NotFoundException
+com/example/restservice/exceptions/UsernameExistsException.java
+ com.example.restservice.exceptions.UsernameExistsException
+com/example/restservice/service/RestServiceApplication.java
+ com.example.restservice.service.RestServiceApplication
+com/example/restservice/service/UserService.java
+ com.example.restservice.service.UserService
+com/example/restservice/controller/UserController.java
+ com.example.restservice.controller.UserController
